@@ -1,0 +1,30 @@
+# Compiled programs
+*.exe
+*.o
+*.obj
+*.out
+
+# LaTeX build files; keep PDF reports
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.synctex.gz
+*-blx.bib
+*.pyg
+*.pygstyle
+*.pygtex
+_minted*/
+_minted/
+lab03_build.txt
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
